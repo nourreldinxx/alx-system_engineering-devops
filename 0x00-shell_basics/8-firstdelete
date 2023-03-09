@@ -1,2 +1,7 @@
 #!/bin/bash
+
+rm -r  /tmp/my_fitst_directory/betty/
 rm -r  /tmp/my_fitst_directory/betty
+
+rm  /tmp/my_fitst_directory/betty
+rm  /tmp/my_fitst_directory/betty/
